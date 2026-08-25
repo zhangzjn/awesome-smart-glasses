@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="display: inline-flex; align-items: center;">
-    <img src="assets/imgs/repo-logo.png" alt="Smart Glasses Survey Logo" width="72">
+    <img src="assets/imgs/repo-logo.png" alt="Smart Glasses Survey Logo" width="60">
     From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms
   </h1>
 </div>
@@ -72,25 +72,25 @@ We formulate nine coupled design dimensions covering hardware, runtime, percepti
 
 </details>
 
-## 👓 Representative Smart-Glasses Products/Platforms
+## Representative Smart-Glasses Products/Platforms
 
 <p align="center">
   <img src="assets/imgs/products-timeline.png" alt="Survey Pipeline" width="100%">
 </p>
 
-## 📏 Foundational Capabilities for Smart Glasses
+## Foundational Capabilities for Smart Glasses
 
-## 🌍 Application Scenes for Smart Glasses
+## Application Scenes for Smart Glasses
 
 ## 📄 Citation
-If you find our work helpful, please leave us a ⭐ and cite our paper:
+If you find our work helpful, please consider citing our paper:
 ```
 The BibTeX entry for this survey will be added after the paper is publicly released.
 ```
 
 ## 🤝 Contributing
 
-Contributions are welcome. Please open an issue or submit a pull request to add or correct smart-glasses products, platforms, capabilities, datasets, benchmarks, systems, and application resources. New entries should include a verifiable paper, official product page, project page, or repository link.
+Contributions are welcome. Please open an issue or submit a pull request to add or correct related smart-glasses products/platforms and works (datasets, benchmarks, methods, systems, and application resources). New entries should include a verifiable paper, official product/project page, or repository link.
 
 ## 🔗 Related Resources & Links
 
@@ -100,3 +100,15 @@ Contributions are welcome. Please open an issue or submit a pull request to add 
 ## 🤗 Acknowledgments
 
 We thank the authors, dataset and benchmark creators, product and platform developers, and open-source contributors whose work supports this survey.
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/github/stars/zhangzjn/awesome-smart-glasses?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/zhangzjn/awesome-smart-glasses?style=social" alt="GitHub forks">
+  <img src="https://img.shields.io/github/watchers/zhangzjn/awesome-smart-glasses?style=social" alt="GitHub watchers">
+</div>
+
+<div align="center">
+  <strong>⭐ Leave this repository a star if you find it helpful! ⭐</strong>
+</div>
