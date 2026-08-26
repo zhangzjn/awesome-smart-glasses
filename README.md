@@ -8,19 +8,25 @@
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome list badge"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License"></a>
-  <a href=""><img src="https://img.shields.io/badge/arXiv-Coming_Soon-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
-  <a href=""><img src="https://img.shields.io/badge/Hugging_Face-Coming_Soon-292929.svg?logo=huggingface" alt="Hugging Face"></a>
+  <a href="https://arxiv.org/abs/2608.24877"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?logo=arXiv" alt="arXiv"></a>
+  <a href="https://huggingface.co/papers/2608.24877"><img src="https://img.shields.io/badge/Hugging_Face-Paper-292929.svg?logo=huggingface" alt="Hugging Face"></a>
   <a href="#-contributing"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
   <a href="assets/imgs/wechat-group.jpg"><img src="https://img.shields.io/badge/Group-WeChat-07c160?logo=wechat&logoColor=white" alt="WeChat Group"></a>
 </p>
 
 <p align="center">
-  <a href="https://zhangzjn.github.io/">Jiangning Zhang</a> <sup>*,<a href="mailto:186368@zju.edu.cn">✉</a></sup>&nbsp;,&nbsp;
-  <a href="">Haojun Chen</a> <sup>*</sup>&nbsp;,&nbsp;
-  <a href="https://person.zju.edu.cn/yongliu">Yong Liu</a>
+  <a href="https://zhangzjn.github.io/">Jiangning Zhang</a> <sup>1,*,<a href="mailto:186368@zju.edu.cn">✉</a></sup>&nbsp;,&nbsp;
+  <a href="">Haojun Chen</a> <sup>1,*</sup>&nbsp;,&nbsp;
+  <a href="https://person.zju.edu.cn/yongliu">Yong Liu</a> <sup>1</sup>
 </p>
 
-This repository accompanies our survey **From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms** and maintains a structured collection of smart-glasses products/platforms, foundational capabilities, and application scenarios, which will be continuously updated. For more details, kindly refer to our [paper]() 🚀
+<p align="center">
+    <sup>1</sup>Zhejiang University, APRIL Lab
+</p>
+
+This repository accompanies our survey **From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms** and maintains a structured collection of smart-glasses products/platforms, foundational capabilities, and application scenarios, which will be continuously updated.For more details, kindly refer to our [paper](https://arxiv.org/abs/2608.24877) 🚀
+
+💬 Researchers and industry practitioners are welcome to join our [WeChat group](assets/imgs/wechat-group.jpg); we look forward to exchanging ideas and collaborating with you.
 
 <p align="center">
   <img src="assets/imgs/survey-pipeline.png" alt="Survey Pipeline" width="100%">
@@ -29,7 +35,7 @@ This repository accompanies our survey **From Seeing to Acting: Smart Glasses as
 ## 📰 News
 
 <!-- News will be updated here. -->
-- **2026-08-26**: We release our survey: [From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms]().
+- **2026-08-26**: We release our initial-version survey: [From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms](https://arxiv.org/abs/2608.24877).
 
 ## Table of Contents
 
@@ -78,14 +84,40 @@ We formulate nine coupled design dimensions covering hardware, runtime, percepti
   <img src="assets/imgs/products-timeline.png" alt="Survey Pipeline" width="100%">
 </p>
 
+<details>
+<summary><strong>Figure: Hardware stack and hardware-based capability-axis consolidation. </strong></summary>
+
+<p align="center">
+  <img src="assets/imgs/hardware-capability-axes.png" alt="Survey Pipeline" width="100%">
+</p>
+
+</details>
+
 ## Foundational Capabilities for Smart Glasses
+
+<details>
+<summary><strong>Figure: Foundational capabilities and L0-L5 cross-capability level framework. </strong></summary>
+
+<p align="center">
+  <img src="assets/imgs/capabilities-L0-L5.png" alt="Survey Pipeline" width="100%">
+</p>
+
+</details>
 
 ## Application Scenes for Smart Glasses
 
 ## 📄 Citation
 If you find our work helpful, please consider citing our paper:
 ```
-The BibTeX entry for this survey will be added after the paper is publicly released.
+@misc{zhang2026seeingactingsmartglasses,
+      title={From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms}, 
+      author={Jiangning Zhang and Haojun Chen and Yong Liu},
+      year={2026},
+      eprint={2608.24877},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2608.24877}, 
+}
 ```
 
 ## 🤝 Contributing
