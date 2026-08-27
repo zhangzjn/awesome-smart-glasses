@@ -93,8 +93,6 @@ We formulate nine coupled design dimensions covering hardware, runtime, percepti
   <img src="assets/imgs/products-timeline.png" alt="Survey Pipeline" width="100%">
 </p>
 
-> The table of representative smart-glasses products/platforms would be updated soon.
-
 <details>
 <summary><strong>Figure: Hardware stack and hardware-based capability-axis consolidation. </strong></summary>
 
@@ -230,6 +228,7 @@ We formulate nine coupled design dimensions covering hardware, runtime, percepti
 | AiGet: Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses | [![arXiv](https://img.shields.io/badge/arXiv-2501.16240-b31b1b?logo=arxiv)](https://arxiv.org/abs/2501.16240) |
 | EgoLife: Towards Egocentric Life Assistant | [![arXiv](https://img.shields.io/badge/arXiv-2503.03803-b31b1b?logo=arxiv)](https://arxiv.org/abs/2503.03803) |
 | ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions | [![arXiv](https://img.shields.io/badge/arXiv-2505.14668-b31b1b?logo=arxiv)](https://arxiv.org/abs/2505.14668) |
+| AI for Service: Proactive Assistance with AI Glasses | [![arXiv](https://img.shields.io/badge/arXiv-2510.14359-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.14359) |
 | TeleEgo: Benchmarking Egocentric AI Assistants in the Wild | [![arXiv](https://img.shields.io/badge/arXiv-2510.23981-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.23981) |
 | WearVQA: A Visual Question Answering Benchmark for Wearables in Egocentric Authentic Real-world Scenarios | [![arXiv](https://img.shields.io/badge/arXiv-2511.22154-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.22154) |
 | ROMA: Real-time Omni-Multimodal Assistant with Interactive Streaming Understanding | [![arXiv](https://img.shields.io/badge/arXiv-2601.10323-b31b1b?logo=arxiv)](https://arxiv.org/abs/2601.10323) |
@@ -240,6 +239,7 @@ We formulate nine coupled design dimensions covering hardware, runtime, percepti
 | Egocentric Co-Pilot: Web-Native Smart-Glasses Agents for Assistive Egocentric AI | [![arXiv](https://img.shields.io/badge/arXiv-2603.01104-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.01104) |
 | Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos | [![arXiv](https://img.shields.io/badge/arXiv-2603.22529-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.22529) |
 | VisionClaw: Always-On AI Agents through Smart Glasses | [![arXiv](https://img.shields.io/badge/arXiv-2604.03486-b31b1b?logo=arxiv)](https://arxiv.org/abs/2604.03486) |
+| Intention-Aware Semantic Agent Communications for AI Glasses | [![arXiv](https://img.shields.io/badge/arXiv-2604.23691-b31b1b?logo=arxiv)](https://arxiv.org/abs/2604.23691) |
 | EgoMemReason: A Memory-Driven Reasoning Benchmark for Long-Horizon Egocentric Video Understanding | [![arXiv](https://img.shields.io/badge/arXiv-2605.09874-b31b1b?logo=arxiv)](https://arxiv.org/abs/2605.09874) |
 | Personal Visual Context Learning in Large Multimodal Models | [![arXiv](https://img.shields.io/badge/arXiv-2605.10936-b31b1b?logo=arxiv)](https://arxiv.org/abs/2605.10936) |
 | EgoPro-Bench: Benchmarking Personalized Proactive Interaction in Egocentric Video Streams | [![arXiv](https://img.shields.io/badge/arXiv-2605.07299-b31b1b?logo=arxiv)](https://arxiv.org/abs/2605.07299) |
@@ -262,6 +262,7 @@ We formulate nine coupled design dimensions covering hardware, runtime, percepti
 | Exploring LLM-Based Assistants with Smart Glasses for the Visually Impaired | [![ACM DL](https://img.shields.io/badge/ACM%20DL-Link-0085ca?style=flat-square)](https://dl.acm.org/doi/10.1145/3769102.3774892) |
 | Evaluating OCR Performance for Assistive Technology: Effects of Walking Speed, Camera Placement, and Camera Type | [![arXiv](https://img.shields.io/badge/arXiv-2602.02223-b31b1b?logo=arxiv)](https://arxiv.org/abs/2602.02223) |
 | Active Noise Cancellation on Open-Ear Smart Glasses | [![arXiv](https://img.shields.io/badge/arXiv-2604.05519-b31b1b?logo=arxiv)](https://arxiv.org/abs/2604.05519) |
+| Urban Risk-Aware Navigation via VQA-Based Event Maps for People with Low Vision | [![arXiv](https://img.shields.io/badge/arXiv-2605.11782-b31b1b?logo=arxiv)](https://arxiv.org/abs/2605.11782) |
 
 ### 4.3 Industrial Workflow Support
 
@@ -271,6 +272,7 @@ We formulate nine coupled design dimensions covering hardware, runtime, percepti
 | Smart Glasses-Based Personnel Proximity Warning System for Improving Pedestrian Safety in Construction and Mining Sites | [![MDPI](https://img.shields.io/badge/MDPI-Link-0085ca?style=flat-square)](https://www.mdpi.com/1660-4601/17/4/1422) |
 | Augmented Reality’s Impact in Industry—A Scoping Review | [![MDPI](https://img.shields.io/badge/MDPI-Link-0085ca?style=flat-square)](https://www.mdpi.com/2076-3417/15/5/2415) |
 | The IKEA ASM Dataset: Understanding People Assembling Furniture through Actions, Objects and Pose | [![arXiv](https://img.shields.io/badge/arXiv-2007.00394-b31b1b?logo=arxiv)](https://arxiv.org/abs/2007.00394) |
+| Augmented Reality Smart Glasses in Industrial Assembly: Current Status and Future Challenges | [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-Link-0085ca?style=flat-square)](https://www.sciencedirect.com/science/article/abs/pii/S2452414X20300509) |
 | Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities | [![arXiv](https://img.shields.io/badge/arXiv-2203.14712-b31b1b?logo=arxiv)](https://arxiv.org/abs/2203.14712) |
 | HoloAssist: An Egocentric Human Interaction Dataset for Interactive AI Assistants in the Real World | [![arXiv](https://img.shields.io/badge/arXiv-2309.17024-b31b1b?logo=arxiv)](https://arxiv.org/abs/2309.17024) |
 | Head-Mounted Display Augmented Reality in Manufacturing: A Systematic Review | [![ACM DL](https://img.shields.io/badge/ACM%20DL-Link-0085ca?style=flat-square)](https://dl.acm.org/doi/10.1016/j.rcim.2023.102567) |
@@ -282,15 +284,104 @@ We formulate nine coupled design dimensions covering hardware, runtime, percepti
 
 ### 4.4 Healthcare and Caregiving
 
+| Paper Title | Link |
+|---|---|
+| JHU-ISI Gesture and Skill Assessment Working Set (JIGSAWS): A Surgical Activity Dataset for Human Motion Modeling | [![CIRL](https://img.shields.io/badge/CIRL-Link-0085ca?style=flat-square)](https://cirl.lcsr.jhu.edu/research/hmm/datasets/jigsaws_release/) |
+| Technical Support by Smart Glasses During a Mass Casualty Incident | [![PubMed](https://img.shields.io/badge/PubMed-Link-0085ca?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/30609988/) |
+| A Systematic Literature Review on Integrating AI-Powered Smart Glasses into Digital Health Management for Proactive Healthcare Solutions | [![Nature](https://img.shields.io/badge/Nature-Link-0085ca?style=flat-square)](https://www.nature.com/articles/s41746-025-01715-x) |
+| Development of an AI-Powered AR Glasses System for Real-Time First Aid Guidance in Emergency Situations | [![Springer Nature](https://img.shields.io/badge/Springer%20Nature-Link-1f77b4?style=flat-square)](https://link.springer.com/article/10.1186/s13040-025-00473-6) |
+| Smart Glasses for Older Adults With Cognitive Impairment: A Scoping Review | [![PubMed Central](https://img.shields.io/badge/PubMed%20Central-Link-0085ca?style=flat-square)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12633631/) |
+| A Smart-Glasses for Emergency Medical Services via Multimodal Multitask Learning | [![arXiv](https://img.shields.io/badge/arXiv-2511.13078-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.13078) |
+| Wearable AR for Restorative Breaks: How Interactive Narrative Experiences Support Relaxation for Young People | [![arXiv](https://img.shields.io/badge/arXiv-2602.16323-b31b1b?logo=arxiv)](https://arxiv.org/abs/2602.16323) |
+
 ### 4.5 Education and Skills Training
+
+| Paper Title | Link |
+|---|---|
+| Cross-Task Weakly Supervised Learning from Instructional Videos | [![arXiv](https://img.shields.io/badge/arXiv-1903.08225-b31b1b?logo=arxiv)](https://arxiv.org/abs/1903.08225) |
+| Evaluating the Effectiveness of Learning Design with Mixed Reality in Higher Education | [![Springer Nature](https://img.shields.io/badge/Springer%20Nature-Link-1f77b4?style=flat-square)](https://link.springer.com/article/10.1007/s10055-020-00427-9) |
+| Augmented Reality in Medical Education: A Systematic Review | [![PubMed Central](https://img.shields.io/badge/PubMed%20Central-Link-0085ca?style=flat-square)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7082471/) |
+| Rescaling Egocentric Vision: Collection, Pipeline and Challenges for EPIC-KITCHENS-100 | [![arXiv](https://img.shields.io/badge/arXiv-2006.13256-b31b1b?logo=arxiv)](https://arxiv.org/abs/2006.13256) |
+| A Critical Evaluation, Challenges, and Future Perspectives of Using AI and Emerging Technologies in Smart Classrooms | [![Springer Nature](https://img.shields.io/badge/Springer%20Nature-Link-1f77b4?style=flat-square)](https://link.springer.com/article/10.1186/s40561-023-00231-3) |
+| The Use of Smart Glasses in Nursing Education: A Scoping Review | [![PubMed](https://img.shields.io/badge/PubMed-Link-0085ca?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/37924651/) |
+| Evaluating the Feasibility of Augmented Reality to Support Communication Access for Deaf Students in Experiential Higher Education Contexts | [![arXiv](https://img.shields.io/badge/arXiv-2604.00856-b31b1b?logo=arxiv)](https://arxiv.org/abs/2604.00856) |
 
 ### 4.6 Mobility and Transportation Safety
 
+| Paper Title | Link |
+|---|---|
+| NavCog: A Navigational Cognitive Assistant for the Blind | [![ACM DL](https://img.shields.io/badge/ACM%20DL-Link-0085ca?style=flat-square)](https://dl.acm.org/doi/10.1145/2935334.2935361) |
+| Are They Going to Cross? A Benchmark Dataset and Baseline for Pedestrian Crosswalk Behavior | [![IEEE](https://img.shields.io/badge/IEEE-Link-0085ca?style=flat-square)](https://www.computer.org/csdl/proceedings-article/iccvw/2017/1034a206/12OmNBiygvp) |
+| PIE: A Large-Scale Dataset and Models for Pedestrian Intention Estimation and Trajectory Prediction | [![ResearchGate](https://img.shields.io/badge/ResearchGate-Link-0085ca?style=flat-square)](https://www.researchgate.net/publication/339558368_PIE_A_Large-Scale_Dataset_and_Models_for_Pedestrian_Intention_Estimation_and_Trajectory_Prediction) |
+| The Effectiveness of Visual and Audio Wayfinding Guidance on Smartglasses for People with Low Vision | [![ACM DL](https://img.shields.io/badge/ACM%20DL-Link-0085ca?style=flat-square)](https://dl.acm.org/doi/10.1145/3313831.3376516) |
+| Urban Risk-Aware Navigation via VQA-Based Event Maps for People with Low Vision | [![arXiv](https://img.shields.io/badge/arXiv-2605.11782-b31b1b?logo=arxiv)](https://arxiv.org/abs/2605.11782) |
+| Decoding Pedestrian Crossing Intention from Egocentric Vision via Vision Language Models | [![arXiv](https://img.shields.io/badge/arXiv-2606.09142-b31b1b?logo=arxiv)](https://arxiv.org/abs/2606.09142) |
+
 ### 4.7 Social Interaction and Collaboration
+
+| Paper Title | Link |
+|---|---|
+| The AMI Meeting Corpus: A Pre-Announcement | [![Springer Nature](https://img.shields.io/badge/Springer%20Nature-Link-1f77b4?style=flat-square)](https://link.springer.com/chapter/10.1007/11677482_3) |
+| In Situ with Bystanders of Augmented Reality Glasses: Perspectives on Recording and Privacy-Mediating Technologies | [![ACM DL](https://img.shields.io/badge/ACM%20DL-Link-0085ca?style=flat-square)](https://dl.acm.org/doi/10.1145/2556288.2557352) |
+| Your Smart Glasses' Camera Bothers Me! Exploring Opt-In and Opt-Out Gestures for Privacy Mediation | [![ACM DL](https://img.shields.io/badge/ACM%20DL-Link-0085ca?style=flat-square)](https://dl.acm.org/doi/10.1145/3240167.3240174) |
+| AVA Active Speaker: An Audio-Visual Dataset for Active Speaker Detection | [![arXiv](https://img.shields.io/badge/arXiv-1901.01342-b31b1b?logo=arxiv)](https://arxiv.org/abs/1901.01342) |
+| Evaluating a Wearable Camera's Social Acceptability In-the-Wild | [![ACM DL](https://img.shields.io/badge/ACM%20DL-Link-0085ca?style=flat-square)](https://dl.acm.org/doi/10.1145/3290607.3312837) |
+| QMSum: A New Benchmark for Query-Based Multi-Domain Meeting Summarization | [![arXiv](https://img.shields.io/badge/arXiv-2104.05938-b31b1b?logo=arxiv)](https://arxiv.org/abs/2104.05938) |
+| Social Acceptance of Smart Glasses in Health Care: Model Evaluation Study of Anticipated Adoption and Social Interaction | [![PubMed Central](https://img.shields.io/badge/PubMed%20Central-Link-0085ca?style=flat-square)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11862762/) |
+| VisGuardian: A Lightweight Group-based Privacy Control Technique For Front Camera Data From AR Glasses in Home Environments | [![arXiv](https://img.shields.io/badge/arXiv-2601.19502-b31b1b?logo=arxiv)](https://arxiv.org/abs/2601.19502) |
+| Conversational Successes and Breakdowns in Everyday Smart Glasses Use | [![arXiv](https://img.shields.io/badge/arXiv-2602.22340-b31b1b?logo=arxiv)](https://arxiv.org/abs/2602.22340) |
+| Mind the Gap: Mapping Wearer--Bystander Privacy Tensions and Context-Adaptive Pathways for Camera Glasses | [![arXiv](https://img.shields.io/badge/arXiv-2603.04930-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.04930) |
+| Reshaping Inclusive Interpersonal Dynamics through Smart Glasses in Mixed-Vision Social Activities | [![arXiv](https://img.shields.io/badge/arXiv-2604.07232-b31b1b?logo=arxiv)](https://arxiv.org/abs/2604.07232) |
+| Position: Life-Logging Video Streams Make the Privacy-Utility Trade-off Inevitable | [![arXiv](https://img.shields.io/badge/arXiv-2605.10404-b31b1b?logo=arxiv)](https://arxiv.org/abs/2605.10404) |
+| H2HMem: A Multimodal Memory Benchmark for Agents in Human-Human Interactions | [![arXiv](https://img.shields.io/badge/arXiv-2606.09461-b31b1b?logo=arxiv)](https://arxiv.org/abs/2606.09461) |
 
 ### 4.8 Spatial Intelligence
 
+| Paper Title | Link |
+|---|---|
+| VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator | [![arXiv](https://img.shields.io/badge/arXiv-1708.03852-b31b1b?logo=arxiv)](https://arxiv.org/abs/1708.03852) |
+| Matterport3D: Learning from RGB-D Data in Indoor Environments | [![arXiv](https://img.shields.io/badge/arXiv-1709.06158-b31b1b?logo=arxiv)](https://arxiv.org/abs/1709.06158) |
+| In the Eye of the Beholder: Joint Learning of Gaze and Actions in First Person Video | [![arXiv](https://img.shields.io/badge/arXiv-2006.00626-b31b1b?logo=arxiv)](https://arxiv.org/abs/2006.00626) |
+| ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial, and Multimap SLAM | [![arXiv](https://img.shields.io/badge/arXiv-2007.11898-b31b1b?logo=arxiv)](https://arxiv.org/abs/2007.11898) |
+| DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras | [![arXiv](https://img.shields.io/badge/arXiv-2108.10869-b31b1b?logo=arxiv)](https://arxiv.org/abs/2108.10869) |
+| Aria Digital Twin: A New Benchmark Dataset for Egocentric 3D Machine Perception | [![arXiv](https://img.shields.io/badge/arXiv-2306.06362-b31b1b?logo=arxiv)](https://arxiv.org/abs/2306.06362) |
+| Project Aria: A New Tool for Egocentric Multi-Modal AI Research | [![arXiv](https://img.shields.io/badge/arXiv-2308.13561-b31b1b?logo=arxiv)](https://arxiv.org/abs/2308.13561) |
+| LEVIO: Lightweight Embedded Visual Inertial Odometry for Resource-Constrained Devices | [![arXiv](https://img.shields.io/badge/arXiv-2602.03294-b31b1b?logo=arxiv)](https://arxiv.org/abs/2602.03294) |
+| EgoForge: Goal-Directed Egocentric World Simulator | [![arXiv](https://img.shields.io/badge/arXiv-2603.20169-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.20169) |
+| Pandora: Articulated 3D Scene Graphs from Egocentric Vision | [![arXiv](https://img.shields.io/badge/arXiv-2603.28732-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.28732) |
+| Do MLLMs Understand Pointing? Benchmarking and Enhancing Referential Reasoning in Egocentric Vision | [![arXiv](https://img.shields.io/badge/arXiv-2604.21461-b31b1b?logo=arxiv)](https://arxiv.org/abs/2604.21461) |
+| EgoProx: Evaluating MLLMs on Egocentric 3D Proximity Reasoning Across a Cognitive Hierarchy | [![arXiv](https://img.shields.io/badge/arXiv-2605.24456-b31b1b?logo=arxiv)](https://arxiv.org/abs/2605.24456) |
+| SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks | [![arXiv](https://img.shields.io/badge/arXiv-2606.09669-b31b1b?logo=arxiv)](https://arxiv.org/abs/2606.09669) |
+
 ### 4.9 Embodied Intelligence
+
+| Paper Title | Link |
+|---|---|
+| Ego4D: Around the World in 3,000 Hours of Egocentric Video | [![arXiv](https://img.shields.io/badge/arXiv-2110.07058-b31b1b?logo=arxiv)](https://arxiv.org/abs/2110.07058) |
+| Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives | [![arXiv](https://img.shields.io/badge/arXiv-2311.18259-b31b1b?logo=arxiv)](https://arxiv.org/abs/2311.18259) |
+| EgoMimic: Scaling Imitation Learning via Egocentric Video | [![arXiv](https://img.shields.io/badge/arXiv-2410.24221-b31b1b?logo=arxiv)](https://arxiv.org/abs/2410.24221) |
+| EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video | [![arXiv](https://img.shields.io/badge/arXiv-2505.11709-b31b1b?logo=arxiv)](https://arxiv.org/abs/2505.11709) |
+| EgoZero: Robot Learning from Smart Glasses | [![arXiv](https://img.shields.io/badge/arXiv-2505.20290-b31b1b?logo=arxiv)](https://arxiv.org/abs/2505.20290) |
+| EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos | [![arXiv](https://img.shields.io/badge/arXiv-2507.12440-b31b1b?logo=arxiv)](https://arxiv.org/abs/2507.12440) |
+| EgoBridge: Domain Adaptation for Generalizable Imitation from Egocentric Human Data | [![arXiv](https://img.shields.io/badge/arXiv-2509.19626-b31b1b?logo=arxiv)](https://arxiv.org/abs/2509.19626) |
+| Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos | [![arXiv](https://img.shields.io/badge/arXiv-2510.21571-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.21571) |
+| EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations | [![arXiv](https://img.shields.io/badge/arXiv-2511.00153-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.00153) |
+| EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data | [![arXiv](https://img.shields.io/badge/arXiv-2602.16710-b31b1b?logo=arxiv)](https://arxiv.org/abs/2602.16710) |
+| AoE: Always-On Egocentric Human Video Collection for Embodied AI | [![arXiv](https://img.shields.io/badge/arXiv-2602.23893-b31b1b?logo=arxiv)](https://arxiv.org/abs/2602.23893) |
+| UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos | [![arXiv](https://img.shields.io/badge/arXiv-2603.22264-b31b1b?logo=arxiv)](https://arxiv.org/abs/2603.22264) |
+| ActiveGlasses: Learning Manipulation with Active Vision from Ego-Centric Human Demonstration | [![arXiv](https://img.shields.io/badge/arXiv-2604.08534-b31b1b?logo=arxiv)](https://arxiv.org/abs/2604.08534) |
+| HumanNet: Scaling Human-Centric Video Learning to One Million Hours | [![arXiv](https://img.shields.io/badge/arXiv-2605.06747-b31b1b?logo=arxiv)](https://arxiv.org/abs/2605.06747) |
+| EgoKit: Towards Unified Low-Cost Egocentric Data Collection with Heterogeneous Devices | [![arXiv](https://img.shields.io/badge/arXiv-2605.16797-b31b1b?logo=arxiv)](https://arxiv.org/abs/2605.16797) |
+| HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos | [![arXiv](https://img.shields.io/badge/arXiv-2605.24934-b31b1b?logo=arxiv)](https://arxiv.org/abs/2605.24934) |
+| ActiveMimic: Egocentric Video Pretraining with Active Perception | [![arXiv](https://img.shields.io/badge/arXiv-2606.06194-b31b1b?logo=arxiv)](https://arxiv.org/abs/2606.06194) |
+| EgoTactile: Learning Grasp Pressure for Everyday Objects from Egocentric Video | [![arXiv](https://img.shields.io/badge/arXiv-2606.09243-b31b1b?logo=arxiv)](https://arxiv.org/abs/2606.09243) |
+| EgoEngine: From Egocentric Human Videos to High-Fidelity Dexterous Robot Demonstrations | [![arXiv](https://img.shields.io/badge/arXiv-2606.12604-b31b1b?logo=arxiv)](https://arxiv.org/abs/2606.12604) |
+| EPIC: A System Framework for Efficient Egocentric Perception on Embodied AR Glasses | [![arXiv](https://img.shields.io/badge/arXiv-2606.15859-b31b1b?logo=arxiv)](https://arxiv.org/abs/2606.15859) |
+| Human Universal Grasping | [![arXiv](https://img.shields.io/badge/arXiv-2606.17054-b31b1b?logo=arxiv)](https://arxiv.org/abs/2606.17054) |
+| ForceBand: Learning Forceful Manipulation with sEMG | [![arXiv](https://img.shields.io/badge/arXiv-2606.26093-b31b1b?logo=arxiv)](https://arxiv.org/abs/2606.26093) |
+| EgoWAM: World Action Models Beyond Pixels with In-the-Wild Egocentric Human Data | [![arXiv](https://img.shields.io/badge/arXiv-2607.08436-b31b1b?logo=arxiv)](https://arxiv.org/abs/2607.08436) |
+| Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning | [![arXiv](https://img.shields.io/badge/arXiv-2607.14183-b31b1b?logo=arxiv)](https://arxiv.org/abs/2607.14183) |
+| EgoExoMoCap: Distributed Ego-Exo Human Motion Capture | [![arXiv](https://img.shields.io/badge/arXiv-2607.15868-b31b1b?logo=arxiv)](https://arxiv.org/abs/2607.15868) |
 
 ## 📄 Citation
 If you find our work helpful, please consider citing our paper:
