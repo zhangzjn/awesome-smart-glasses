@@ -90,8 +90,32 @@ We formulate nine coupled design dimensions covering hardware, runtime, percepti
 ## Representative Smart-Glasses Products/Platforms
 
 <p align="center">
-  <img src="assets/imgs/products-timeline.png" alt="Survey Pipeline" width="100%">
+  <img src="assets/imgs/products-timeline.png" alt="Representative Smart-Glasses Products/Platforms" width="100%">
 </p>
+
+> 👓 The table below summarizes some representative smart-glasses products/platforms and their corresponding links (⏰ last update: 2026.09.06).
+
+| Date | Smart-Glasses Product/Platform | Link |
+|---|---|---|
+| 2020-09 | Project Aria Gen 1 | [Project Aria Gen 1](https://facebookresearch.github.io/projectaria_tools/docs/intro) |
+| 2023-09 | Ray-Ban Meta Gen 1 | [Ray-Ban Meta Gen 1](https://www.ray-ban.com/usa/ray-ban-meta-ai-glasses-gen-1) |
+| 2024-06 | Even Realities G1 | [Even Realities G1](https://www.evenrealities.com/en/g1) |
+| 2025-02 | Project Aria Gen 2 | [Project Aria Gen 2](https://www.projectaria.com/glasses/) |
+| 2025-05 | RayNeo X3 Pro | [RayNeo X3 Pro](https://rayneo.com/products/x3-pro-ai-display-glasses) |
+| 2025-05 | XREAL AURA | [XREAL AURA](https://www.xreal.com/aura) |
+| 2025-06 | Xiaomi AI Glasses | [Xiaomi AI Glasses](https://www.mi.com/global/product/xiaomi-smart-audio-glasses/) |
+| 2025-09 | Ray-Ban Meta Gen 2 | [Ray-Ban Meta Gen 2](https://www.ray-ban.com/usa/ray-ban-meta-ai-glasses-gen-2) |
+| 2025-09 | Meta Ray-Ban Display | [Meta Ray-Ban Display](https://www.meta.com/sg/ai-glasses/meta-ray-ban-display/) |
+| 2025-10 | Oakley Meta Vanguard | [Oakley Meta Vanguard](https://www.oakley.com/en-us/product/W0OW8001) |
+| 2025-11 | Xiaodu AI Glasses Pro | [Xiaodu AI Glasses Pro](https://dumall.baidu.com/product/902971303493639?skuNo=S20201201010090) |
+| 2025-11 | Quark AI Glasses S1 | [Quark AI Glasses S1](https://www.alibaba.com/product-detail/Quark-AI-Glasses-S1-Smart-Glasses_1601689449207.html) |
+| 2025-11 | Quark AI Glasses G1 | [Quark AI Glasses G1](https://www.alibaba.com/product-detail/Quark-AI-Glasses-G1-Smart-Glasses_1601689439357.html) |
+| 2026-01 | Rokid AI Glasses Style | [Rokid AI Glasses Style](https://global.rokid.com/en-jp/pages/rokid-ai-glasses-style) |
+| 2026-01 | Solos AirGo V2 | [Solos AirGo V2](https://solosglasses.com/collections/airgo-v2-smartglasses) |
+| 2026-04 | RayNeo V4 | [RayNeo V4](https://rayneo.cn/v4.html) |
+| 2026-06 | Snap SPECS | [Snap SPECS](https://newsroom.snap.com/introducing-specs-augmented-reality-glasses) |
+| 2026-07 | Halliday G2 | [Halliday G2](https://www.hallidayglobal.com) |
+| 2026-08 | RayNeo iO | [RayNeo iO](https://rayneo.cn/io.html) |
 
 <details>
 <summary><strong>Figure: Hardware stack and hardware-based capability-axis consolidation. </strong></summary>
@@ -178,6 +202,7 @@ We formulate nine coupled design dimensions covering hardware, runtime, percepti
 | ![Embodied Data Interfaces](https://img.shields.io/badge/-Embodied%20Data%20Interfaces-0f766e?style=flat-square) | EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations | [![arXiv](https://img.shields.io/badge/arXiv-2511.00153-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.00153) |
 | ![Situated Agentic Action](https://img.shields.io/badge/-Situated%20Agentic%20Action-dc2626?style=flat-square) | AI for Service: Proactive Assistance with AI Glasses | [![arXiv](https://img.shields.io/badge/arXiv-2510.14359-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.14359) |
 | ![Auditable Long-Term Personal Memory](https://img.shields.io/badge/-Auditable%20Long--Term%20Personal%20Memory-d97706?style=flat-square)<br>![Cross-Cutting Deployment Constraints](https://img.shields.io/badge/-Cross--Cutting%20Deployment%20Constraints-475569?style=flat-square) | EgoTrigger: Toward Audio-Driven Image Capture for Human Memory Enhancement in All-Day Energy-Efficient Smart Glasses | [![arXiv](https://img.shields.io/badge/arXiv-2508.01915-b31b1b?logo=arxiv)](https://arxiv.org/abs/2508.01915) |
+| ![Multimodal Context Modeling](https://img.shields.io/badge/-Multimodal%20Context%20Modeling-7c3aed?style=flat-square) | DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs | [![arXiv](https://img.shields.io/badge/arXiv-2507.13737-b31b1b?logo=arxiv)](https://arxiv.org/abs/2507.13737) |
 | ![Embodied Data Interfaces](https://img.shields.io/badge/-Embodied%20Data%20Interfaces-0f766e?style=flat-square) | EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos | [![arXiv](https://img.shields.io/badge/arXiv-2507.12440-b31b1b?logo=arxiv)](https://arxiv.org/abs/2507.12440) |
 | ![Multimodal Context Modeling](https://img.shields.io/badge/-Multimodal%20Context%20Modeling-7c3aed?style=flat-square) | AdaVideoRAG: Omni-Contextual Adaptive Retrieval-Augmented Efficient Long Video Understanding | [![arXiv](https://img.shields.io/badge/arXiv-2506.13589-b31b1b?logo=arxiv)](https://arxiv.org/abs/2506.13589) |
 | ![Embodied Data Interfaces](https://img.shields.io/badge/-Embodied%20Data%20Interfaces-0f766e?style=flat-square)<br>![Cross-Cutting Deployment Constraints](https://img.shields.io/badge/-Cross--Cutting%20Deployment%20Constraints-475569?style=flat-square) | EgoZero: Robot Learning from Smart Glasses | [![arXiv](https://img.shields.io/badge/arXiv-2505.20290-b31b1b?logo=arxiv)](https://arxiv.org/abs/2505.20290) |
@@ -232,6 +257,7 @@ We formulate nine coupled design dimensions covering hardware, runtime, percepti
 | AiGet: Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses | [![arXiv](https://img.shields.io/badge/arXiv-2501.16240-b31b1b?logo=arxiv)](https://arxiv.org/abs/2501.16240) |
 | EgoLife: Towards Egocentric Life Assistant | [![arXiv](https://img.shields.io/badge/arXiv-2503.03803-b31b1b?logo=arxiv)](https://arxiv.org/abs/2503.03803) |
 | ContextAgent: Context-Aware Proactive LLM Agents with Open-World Sensory Perceptions | [![arXiv](https://img.shields.io/badge/arXiv-2505.14668-b31b1b?logo=arxiv)](https://arxiv.org/abs/2505.14668) |
+| DailyLLM: Context-Aware Activity Log Generation Using Multi-Modal Sensors and LLMs | [![arXiv](https://img.shields.io/badge/arXiv-2507.13737-b31b1b?logo=arxiv)](https://arxiv.org/abs/2507.13737) |
 | AI for Service: Proactive Assistance with AI Glasses | [![arXiv](https://img.shields.io/badge/arXiv-2510.14359-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.14359) |
 | TeleEgo: Benchmarking Egocentric AI Assistants in the Wild | [![arXiv](https://img.shields.io/badge/arXiv-2510.23981-b31b1b?logo=arxiv)](https://arxiv.org/abs/2510.23981) |
 | WearVQA: A Visual Question Answering Benchmark for Wearables in Egocentric Authentic Real-world Scenarios | [![arXiv](https://img.shields.io/badge/arXiv-2511.22154-b31b1b?logo=arxiv)](https://arxiv.org/abs/2511.22154) |
