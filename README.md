@@ -438,6 +438,7 @@ Contributions are welcome. Please open an issue or submit a pull request to add 
 
 - [Awesome Egocentric Vision](https://github.com/sun254667/awesome-egocentric-vision)
 - [Awsome Ego Equipments](https://github.com/EmbodiedAI-Group/awsome-ego-equipments)
+- [An open smart-glasses product and market dataset](https://smartglassesatlas.com/en/research/smart-glasses-market-index/)
 - [MentraOS](https://github.com/Mentra-Community/MentraOS)
 
 ## 🤗 Acknowledgments
