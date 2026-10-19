@@ -440,6 +440,8 @@ Contributions are welcome. Please open an issue or submit a pull request to add 
 - [Awsome Ego Equipments](https://github.com/EmbodiedAI-Group/awsome-ego-equipments)
 - [An open smart-glasses product and market dataset](https://smartglassesatlas.com/en/research/smart-glasses-market-index/)
 - [MentraOS](https://github.com/Mentra-Community/MentraOS)
+- [Vision-Language Models for Egocentric Video: From Hand-Object Interaction to Embodied AI
+](https://arxiv.org/abs/2608.18671)
 
 ## 🤗 Acknowledgments
 
